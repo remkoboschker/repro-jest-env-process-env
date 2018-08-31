@@ -1,0 +1,23 @@
+{
+    "name": "repro-jest-env-process-env",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.test.js",
+    "dependencies": {
+        "jest": "^23.5.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/remkoboschker/repro-jest-env-process-env.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/remkoboschker/repro-jest-env-process-env/issues"
+    },
+    "homepage": "https://github.com/remkoboschker/repro-jest-env-process-env#readme"
+}
